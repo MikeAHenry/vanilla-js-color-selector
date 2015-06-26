@@ -30,7 +30,7 @@ body {
 }
 
 .input-group input[type="number"] {
-	width: 30px;
+	width: 40px;
 	position: relative;
 	top: -10px;
 	text-align: center;
